@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #040F0F;
 }
 
 @media (min-width: 992px) {
@@ -17,19 +17,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Cairo', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 5rem;
   line-height: 5.5rem;
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 }
 
 .subheading {
@@ -81,8 +81,8 @@ h2 {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
+    max-width: 15rem;
+    max-height: 15rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
@@ -131,11 +131,12 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #2BA84A !important;
 }
 
+
 .text-primary {
-  color: #BD5D38 !important;
+  color: #285943 !important;
 }
 
 a {
